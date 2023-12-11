@@ -1,0 +1,14 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-link {
+  display: contents;
+}
+.app-component-image {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  object-fit: cover;
+  text-decoration: none;
+}
